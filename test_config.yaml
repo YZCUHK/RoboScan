@@ -1,0 +1,13 @@
+# Example YAML file
+string_var: "Hello, YAML!"
+integer_var: 42
+float_var: 3.14
+boolean_var: true
+list_var:
+  - item1
+  - item2
+  - item3
+dictionary_var:
+  key1: value1
+  key2: value2
+
